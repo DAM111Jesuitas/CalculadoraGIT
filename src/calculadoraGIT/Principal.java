@@ -6,5 +6,6 @@ public class Principal {
 		System.out.println(c.sumar(1, 3));
 		System.out.println(c.restar(1, 4));
 		System.out.println(c.multiplicar(3, 4));
+		System.out.println(c.dividir(6,2));
 	}
 }
